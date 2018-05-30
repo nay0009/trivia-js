@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(177, 26, 86);
+  color: white;
+}
+
+h1{
+  padding: 15px;
+  margin: 70px;
+  font-family: martina , sans-serif ;
+  font-size: 400%
+}
+
+table {
+    color: #FFFFF0;
+    border: 12px double #1DE9B6;
+    font-family: Arial , sans-serif ;
+    margin: 70px;
+    border-collapse: collapse; 
+    width: 50%;
+    background-color: rgba(65, 53, 61, 0.884)
+}
+
+td, th {
+    color: #FFFFF0;
+    border: 12px double #1DE9B6;
+    text-align: center;
+    padding: 15px 12px;
+}
+.invisible { 
+  display: none;
+ }
+
+
